@@ -8307,23 +8307,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\WINDOWS 10\\.nuget\\packages\\": {},
+    "C:\\Users\\xuant\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WINDOWS 10\\Source\\Repos\\MVC21BITV03Test\\Nhom04MidTest\\Nhom04MidTest.csproj",
+      "projectUniqueName": "C:\\Users\\xuant\\source\\repos\\MVC21BITV03Test\\MVC21BITV03Test\\Nhom04MidTest\\Nhom04MidTest.csproj",
       "projectName": "Nhom04MidTest",
-      "projectPath": "C:\\Users\\WINDOWS 10\\Source\\Repos\\MVC21BITV03Test\\Nhom04MidTest\\Nhom04MidTest.csproj",
-      "packagesPath": "C:\\Users\\WINDOWS 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WINDOWS 10\\Source\\Repos\\MVC21BITV03Test\\Nhom04MidTest\\obj\\",
+      "projectPath": "C:\\Users\\xuant\\source\\repos\\MVC21BITV03Test\\MVC21BITV03Test\\Nhom04MidTest\\Nhom04MidTest.csproj",
+      "packagesPath": "C:\\Users\\xuant\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\xuant\\source\\repos\\MVC21BITV03Test\\MVC21BITV03Test\\Nhom04MidTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\WINDOWS 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\xuant\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8406,7 +8406,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

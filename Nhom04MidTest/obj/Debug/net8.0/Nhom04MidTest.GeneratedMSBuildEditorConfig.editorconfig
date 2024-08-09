@@ -17,103 +17,103 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Nhom04MidTest
 build_property.RootNamespace = Nhom04MidTest
-build_property.ProjectDir = C:\Users\WINDOWS 10\Source\Repos\MVC21BITV03Test\Nhom04MidTest\
+build_property.ProjectDir = C:\Users\xuant\source\repos\MVC21BITV03Test\MVC21BITV03Test\Nhom04MidTest\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\WINDOWS 10\Source\Repos\MVC21BITV03Test\Nhom04MidTest
+build_property.MSBuildProjectDirectory = C:\Users\xuant\source\repos\MVC21BITV03Test\MVC21BITV03Test\Nhom04MidTest
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Customers/Create.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Customers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Customers/Delete.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Customers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Customers/Details.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Customers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Customers/Edit.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Customers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Customers/Index.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Customers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Customer/Index.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Customer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Home/Index.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Home/Privacy.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Parts/Create.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Parts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Parts/Delete.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Parts/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Parts/Details.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Parts/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Parts/Edit.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Parts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Parts/Index.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Parts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Sales/Create.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Sales/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Sales/Delete.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Sales/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Sales/Details.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Sales/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Sales/Edit.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Sales/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Sales/Index.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Sales/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Shared/Error.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/_ViewImports.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/_ViewStart.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 10/Source/Repos/MVC21BITV03Test/Nhom04MidTest/Views/Shared/_Layout.cshtml]
+[C:/Users/xuant/source/repos/MVC21BITV03Test/MVC21BITV03Test/Nhom04MidTest/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-sojzd19vwo
