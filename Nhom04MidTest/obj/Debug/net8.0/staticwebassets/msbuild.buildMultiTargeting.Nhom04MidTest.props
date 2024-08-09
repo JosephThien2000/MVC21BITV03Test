@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Nhom04MidTest.props" />
+</Project>
