@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../buildMultiTargeting/Nhom04MidTest.props" />
+  <Import Project="..\buildMultiTargeting\Nhom04MidTest.props" />
 </Project>

@@ -16,6 +16,11 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
+builder.Services.AddDbContext<CarDealerContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ChuoiKetNoi"));
+    options.EnableSensitiveDataLogging();
+});
 
 builder.Services.AddMvc();
 builder.Services.AddEndpointsApiExplorer();

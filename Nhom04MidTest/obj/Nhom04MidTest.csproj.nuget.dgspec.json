@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/josephthien/Desktop/MVC21BITV03Test/Nhom04MidTest/Nhom04MidTest.csproj": {}
+    "C:\\Users\\WINDOWS 10\\Source\\Repos\\MVC21BITV03Test\\Nhom04MidTest\\Nhom04MidTest.csproj": {}
   },
   "projects": {
-    "/Users/josephthien/Desktop/MVC21BITV03Test/Nhom04MidTest/Nhom04MidTest.csproj": {
+    "C:\\Users\\WINDOWS 10\\Source\\Repos\\MVC21BITV03Test\\Nhom04MidTest\\Nhom04MidTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/josephthien/Desktop/MVC21BITV03Test/Nhom04MidTest/Nhom04MidTest.csproj",
+        "projectUniqueName": "C:\\Users\\WINDOWS 10\\Source\\Repos\\MVC21BITV03Test\\Nhom04MidTest\\Nhom04MidTest.csproj",
         "projectName": "Nhom04MidTest",
-        "projectPath": "/Users/josephthien/Desktop/MVC21BITV03Test/Nhom04MidTest/Nhom04MidTest.csproj",
-        "packagesPath": "/Users/josephthien/.nuget/packages/",
-        "outputPath": "/Users/josephthien/Desktop/MVC21BITV03Test/Nhom04MidTest/obj/",
+        "projectPath": "C:\\Users\\WINDOWS 10\\Source\\Repos\\MVC21BITV03Test\\Nhom04MidTest\\Nhom04MidTest.csproj",
+        "packagesPath": "C:\\Users\\WINDOWS 10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WINDOWS 10\\Source\\Repos\\MVC21BITV03Test\\Nhom04MidTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/josephthien/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\WINDOWS 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,6 +75,10 @@
             "Microsoft.EntityFrameworkcore.SqlServer": {
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.3, )"
             }
           },
           "imports": [
@@ -89,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
